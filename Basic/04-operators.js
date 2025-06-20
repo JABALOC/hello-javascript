@@ -95,6 +95,7 @@ isRaining ? console.log("Está lloviendo") : console.log("no está lloviendo");
 isRaining = false;
 isRaining ? console.log("Está lloviendo") : console.log("no está lloviendo");
 
-
+console.log(" ");
+console.log(5 += 2);
 
 
