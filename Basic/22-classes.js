@@ -180,6 +180,8 @@ console.log(miPez);
 miPez.sonido();
 miPez.nada();
 
+
+console.log("")
 // Métodos estáticos
 
 // Es un método que pertenece a la clase y no a sus objetos (instancias)
