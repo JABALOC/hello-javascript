@@ -68,7 +68,6 @@ console.count("click");
 console.countReset("click");
 console.count("CLICK");
 console.count("CLICK");
-console.count("CLICK");
 console.countReset("CLICK");
 
 // 9. Utiliza trace

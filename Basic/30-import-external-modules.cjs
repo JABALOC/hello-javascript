@@ -6,9 +6,9 @@
 
 // require() es una forma de importar módulos en JavaScript cuando NO usamos módulos 
 // tipo import/export, sino el sistema clásico de Node.js (commonJS)
-const os = require("os");
 // os es un módulo nativo de Node.js que ofrece funciones para interactuar con el 
 // sistema operativo.
+const os = require("os");
 
 console.log(os.platform()); // Muestra el sistema operativo
 console.log(os.arch()); // Muestra la arquitectura del procesador

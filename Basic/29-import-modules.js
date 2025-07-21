@@ -4,6 +4,7 @@ import {add, resta, PI, nombre, miCirculo} from './28-exports-modules.js';
 // importación por defecto. No hace falta poner llaves {}
 import multiplicacion from './28-exports-modules.js';
 // Aparte de esto, tenemos que crear un fichero llamado package.json, en que pondremos:
+
 //{
 //  "type": "module";  
 //}
@@ -20,7 +21,6 @@ console.log(nombre);
 console.log(multiplicacion(3, 8));
 
 // clases
-
 console.log(miCirculo.area().toFixed(2));
 console.log(miCirculo.perimetro().toFixed(2));
 

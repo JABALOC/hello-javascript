@@ -42,7 +42,7 @@ console.log(sum(40, 30));
 
 // 9. Exporta una función, una constante y una clase desde una carpeta
 
-// Creado en un archivo de otra carpeta
+// Creado en un archivo de otra carpeta the_odin_project/exportaMoure.js
 
 // 10. Importa una función, una constante y una clase desde un directorio diferente al anterior
 

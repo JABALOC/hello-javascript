@@ -40,7 +40,6 @@ export class Circle {
     constructor(radius) {
         this.radius = radius;
     }
-
     area() {
         return Math.PI * Math.pow(this.radius, 2);
     }

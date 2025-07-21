@@ -27,15 +27,15 @@ export class ClaseExportada {
 
 // 4. Importa una función
 
-// Resuelto en el fichero 32-modules-exercises2
+// Resuelto en el fichero 32-modules-exercises
 
 // 5. Importa una constante
 
-// Resuelto en el fichero 32-modules-exercises2
+// Resuelto en el fichero 32-modules-exercises
 
 // 6. Importa una clase
 
-// Resuelto en el fichero 32-modules-exercises2
+// Resuelto en el fichero 32-modules-exercises
 
 // 7. Exporta una función, una constante y una clase por defecto (en caso de que lo permita)
 
@@ -45,8 +45,12 @@ export default function(a, b){
 
 // 8. Importa una función, una constante y una clase por defecto (en caso de que lo permita)
 
-// Resuelto en el fichero 32-modules-exercises2
+// Resuelto en el fichero 32-modules-exercises
 
 // 9. Exporta una función, una constante y una clase desde una carpeta
 
+// Resuelto desde otra carpeta
+
 // 10. Importa una función, una constante y una clase desde un directorio diferente al anterior
+
+// Resuelto en el fichero 32-modules-exercises

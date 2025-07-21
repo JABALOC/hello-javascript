@@ -81,8 +81,10 @@ console.assert(age <= 17, "El usuario debe ser mayor de edad"); // Assertion fai
 console.count("click"); // salida: click: 1
 console.count("click"); // salida: click: 2
 console.count("click"); // salida: click: 3
+console.count("CLICK"); // salida: CLICK: 1
 console.countReset("click");
 console.count("click"); // salida: click: 1
+console.countReset("CLICK");
 
 // trace (seguimiento pila de ejecución)
 
